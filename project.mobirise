@@ -16,7 +16,8 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "uniqCompNum": 3,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -46,7 +47,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#d9534f",
             "overlayOpacity": "0.2"
           },
           "title": "Glowing Light<br>",
@@ -57,7 +58,14 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-0"
+          "_anchor": "header1-0",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
